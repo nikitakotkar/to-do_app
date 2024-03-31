@@ -1,0 +1,19 @@
+/* App.css */
+
+input {
+  width: 100%;
+}
+
+.todo-container {
+  text-align: center;
+  margin: 15px;
+}
+
+#btn {
+  margin: 10px;
+}
+
+/* Multi-color background */
+body {
+  background: linear-gradient(to right, #4facfe, #00f2fe);
+}
